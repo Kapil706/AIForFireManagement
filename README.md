@@ -1,8 +1,13 @@
+
+
 # AIForFireManagement 
 
 The record-breaking wildfires across the world is creating a big problem. Some of these fires burned thousands of acres of land and destroyed hundreds of homes and buildings. Additionally, smoke from the fire creates issues related to poor air quality, raising health concerns for people not just in the vicinity of the fire, but at distances hundreds of miles away.
 
 `SpotThatFire` application solves the problem using `crowdsourcing` power. Individual citizens who care about nature will contribute and benefit from the system. The application will provide a point-based system for registered users which will give extra enthusiasm.
+
+
+# video of Application in .mp4 format present in file system above
 
 ### What is SpotThatFire?
 - Crowdsourcing platform to detect early wildfires and not only wildfires any natural disaster
