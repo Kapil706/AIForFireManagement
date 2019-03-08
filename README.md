@@ -13,10 +13,10 @@ Over the past year, we have witnessed long and arduous battles against record-br
 
 ### What is SpotThatFire?
 - Crowdsourcing platform to detect early wildfires and not only wildfires any natural disaster
-- Combines NASA open data + connections with government = ultimate tool
+- Contains NASA open data
 - Strong ML to detect possible areas before the fire season, generating heat map and reports
 - Notify locals in the area with instructions
-- Point based system, each user can achieve "the most caring" title
+
 
 ### How it works?
 SpotThatFire offers mobile apps and only a click you will be able to report a fire. Trained machine learning models filtering photos and allow only photos which fire and smokes to prevent spam. The operation is working on device + on the cloud.From the application, a user can call emergency and get first aid information during the hazard. App also will offer offline sync in near future.
@@ -26,10 +26,8 @@ SpotThatFire offers mobile apps and only a click you will be able to report a fi
 Interested media rooms can subscribe to the service and get information about early incidents 10-15 minutes earlier which will give them the spotlight.
 
 
-### Future
-Current MVP is for the demo purpose. According to the features described above, AIForFire has an opportunity to evolve with useful features.
 
-### How we built it
+### How I built it
 - The application- Firebase Auth, Firebase Storage, Firebase ML Kit, Firebase Firestore, Firebase Cloud Messaging
 - Kotlin
 - MVP arch
