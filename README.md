@@ -30,7 +30,7 @@ Interested media rooms can subscribe to the service and get information about ea
 Current MVP is for the demo purpose. According to the features described above, AIForFire has an opportunity to evolve with useful features.
 
 ### How we built it
-- The application is 100% on mBaaS - Firebase Auth, Firebase Storage, Firebase ML Kit, Firebase Firestore, Firebase Cloud Messaging, Firebase Cloud Functions
+- The application- Firebase Auth, Firebase Storage, Firebase ML Kit, Firebase Firestore, Firebase Cloud Messaging
 - Kotlin
 - MVP arch
 - Retrofit
